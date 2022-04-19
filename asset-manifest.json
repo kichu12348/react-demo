@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kichu12348/react-demo.git/static/css/main.c2a5159d.css",
+    "main.js": "/kichu12348/react-demo.git/static/js/main.02700279.js",
+    "static/media/logo.svg": "/kichu12348/react-demo.git/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/kichu12348/react-demo.git/index.html",
+    "main.c2a5159d.css.map": "/kichu12348/react-demo.git/static/css/main.c2a5159d.css.map",
+    "main.02700279.js.map": "/kichu12348/react-demo.git/static/js/main.02700279.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a5159d.css",
+    "static/js/main.02700279.js"
+  ]
+}
